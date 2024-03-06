@@ -22,4 +22,4 @@ function clock(){
 
 }
 
-let inter = setInterval(clock, 400);
+let inter = setInterval(clock, 1000); 
