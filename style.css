@@ -14,7 +14,7 @@ body{
     align-items: center;
     justify-content: center;
     font: bold 12px "Poppins", sans-serif;
-    background-color: black;
+    background-color: #FFBD33;
 }
 .clock{
     border: 1px solid #606060;
